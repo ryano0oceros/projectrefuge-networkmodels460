@@ -1,0 +1,18 @@
+Total Project Time: 42.0
+Task Start Times:
+A: Start Time = 0.0
+B: Start Time = 0.0
+C: Start Time = 4.0
+D: Start Time = 0.0
+D1: Start Time = 4.0
+D2: Start Time = 8.5
+D3: Start Time = 8.0
+D4: Start Time = 14.5
+D5: Start Time = 26.0
+D6: Start Time = 21.5
+D7: Start Time = 25.5
+D8: Start Time = 29.5
+E: Start Time = 7.0
+F: Start Time = 33.5
+G: Start Time = 32.5
+H: Start Time = 37.5
