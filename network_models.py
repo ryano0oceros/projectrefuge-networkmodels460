@@ -22,7 +22,7 @@ def solve_and_save_scenario(duration_scenario, filename):
     # Objective function: Minimize the end time of the last task (H)
     scenario_problem += start_times['H'] + duration_scenario['H'], "Total_Project_Time_Scenario"
     
-    # Constraints for task duration, handling NaN or inf values
+    # Constraints for task duration, handling NaN or inf values MAKING RANDOM CHANG
     for task, duration in duration_scenario.items():
         if math.isfinite(duration):  # Check that duration is a valid number
             scenario_problem += start_times[task] + duration >= start_times[task], f"Duration_{task}_Scenario"
